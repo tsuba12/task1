@@ -74,7 +74,10 @@ footer{
   .step-box{
     float: none;
     width: 90%;
-    margin: 20px;
+    margin: 0 auto;
+  }
+  .step-box:last-child{
+    margin: 0 auto;
   }
   .step-img{
     background-size: auto;
